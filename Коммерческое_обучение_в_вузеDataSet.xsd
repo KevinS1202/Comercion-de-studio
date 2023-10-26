@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Коммерческое_обучение_в_вузеDataSet" targetNamespace="http://tempuri.org/Коммерческое_обучение_в_вузеDataSet.xsd" xmlns:mstns="http://tempuri.org/Коммерческое_обучение_в_вузеDataSet.xsd" xmlns="http://tempuri.org/Коммерческое_обучение_в_вузеDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Коммерческое_обучение_в_вузеConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Коммерческое_обучение_в_вузеConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Lab7.Properties.Settings.GlobalReference.Default.Коммерческое_обучение_в_вузеConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Коммерческое_обучение_в_вузеDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Коммерческое_обучение_в_вузеDataSet" msprop:Generator_UserDSName="Коммерческое_обучение_в_вузеDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
